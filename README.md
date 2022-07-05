@@ -1,5 +1,5 @@
 ## console.log ('Olá, mundo.'); 👋
-   Meu nome é Marlon, porém costumo usar o nick "Chulipinha".
+   Meu nome é Marlon, sou um estudante de Front-End.
 
 [![Chulipinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chulipinha&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chulipinha&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
